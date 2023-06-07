@@ -1,11 +1,15 @@
-import React from 'react'
+import React from 'react';
+import Featured from '../../component/featured/Featured';
 import './Home.scss';
+import TrustedBy from '../../component/trustedBy/TrustedBy';
+
 const Home = () => {
     return (
         <div>
-            Home
+            <Featured />
+            <TrustedBy />
         </div>
     )
 }
 
-export default Home
+export default Home;
