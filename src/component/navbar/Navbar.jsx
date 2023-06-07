@@ -59,17 +59,19 @@ const Navbar = () => {
                     )}
                 </div>
             </div>
-            <hr />
-            {active || pathname !== "/" && <div className="menu">
-                <Link className="link">Graphic and Design</Link>
-                <Link className="link">Video and animation</Link>
-                <Link className="link">Writing and translation</Link>
-                <Link className="link">AI services</Link>
-                <Link className="link">Digital Marketing</Link>
-                <Link className="link">Music and Audio</Link>
-                <Link className="link">Programming and Tech</Link>
-                <Link className="link">Business</Link>
-                <Link className="link">Lifestyle</Link>
+            {active && <div >
+                <hr />
+                <div className="menu">
+                    <Link className="link">Graphic and Design</Link>
+                    <Link className="link">Video and animation</Link>
+                    <Link className="link">Writing and translation</Link>
+                    <Link className="link">AI services</Link>
+                    <Link className="link">Digital Marketing</Link>
+                    <Link className="link">Music and Audio</Link>
+                    <Link className="link">Programming and Tech</Link>
+                    <Link className="link">Business</Link>
+                    <Link className="link">Lifestyle</Link>
+                </div>
             </div>}
         </div>
     )
