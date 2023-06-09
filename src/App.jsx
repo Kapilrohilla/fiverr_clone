@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import './app.scss';
 
-import Navbar from './component/navbar/navbar';
+import Navbar from './component/navbar/Navbar';
 import Footer from './component/footer/Footer';
 import Home from './pages/home/Home';
 import Gigs from './pages/gigs/Gigs';
