@@ -1,0 +1,60 @@
+.proCard {
+    height: 300px;
+    width: 320px;
+    border-radius: 5px;
+    overflow: hidden;
+
+    img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.241);
+
+
+    .productDetail {
+        position: absolute;
+        bottom: 0px;
+        background-color: #fff;
+        width: 320px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 5px 10px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.241);
+        margin: none;
+        outline: none;
+
+        .owner-image {
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            overflow: hidden;
+
+            img {
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+            }
+        }
+
+        .owner-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .title {
+            color: black;
+            font-weight: 500;
+        }
+
+        .author {
+            color: #95979d;
+
+            &::before {
+                content: "by ";
+            }
+        }
+    }
+}

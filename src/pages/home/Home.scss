@@ -1,0 +1,115 @@
+.features-container,
+.features-blue-container {
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    gap: 20%;
+    margin: 0 auto;
+
+    .left {
+        .title {
+            font-size: 28px;
+            margin-bottom: 30px;
+            color: #404145;
+        }
+
+        .explore {
+            padding: 10px 20px;
+            background-color: #1dbf73;
+            color: white;
+            font-weight: 500;
+            font-size: 18px;
+            border-radius: 5px;
+            outline: none;
+            border: none;
+            cursor: pointer;
+        }
+
+        .item {
+            img {
+                height: 24px;
+                width: 24px;
+            }
+
+            font-style: 18px;
+            line-height: 26px;
+            margin-block: 20px;
+            display: flex;
+            flex-direction: column;
+
+            .itemHeading {
+                display: flex;
+                gap: 10px;
+
+                h3 {
+                    font-size: 20px;
+                    color: #404145;
+                }
+
+                p {
+                    font-size: 18px;
+                    color: #62646a;
+                }
+            }
+        }
+    }
+
+    .right {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        video {
+            width: 720px;
+        }
+
+        img {
+            width: 720px;
+        }
+    }
+
+}
+
+.features {
+    background-color: #f1fdf7;
+    padding: 100px;
+
+    .features-blue-container {
+        background-color: rgb(13, 8, 77);
+    }
+
+}
+
+.features-blue {
+    background-color: rgb(13, 8, 77);
+    padding: 100px;
+    color: white;
+
+    .features-blue-container .left {
+
+        .title {
+            color: white;
+        }
+
+        .item {
+
+            .itemHeading {
+                img {
+                    filter: invert(100%);
+
+                }
+
+                h3 {
+                    color: white;
+                }
+
+                color: white;
+            }
+        }
+
+    }
+
+    .title {
+        color: white;
+    }
+}

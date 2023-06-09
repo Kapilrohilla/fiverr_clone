@@ -6,7 +6,7 @@ const Navbar = () => {
     const [open, setOpen] = useState(false);
 
     const { pathname } = useLocation();
-    console.log(pathname);
+
     const isActive = () => {
         window.scrollY > 0 ? setActive(true) : setActive(false);
     }
