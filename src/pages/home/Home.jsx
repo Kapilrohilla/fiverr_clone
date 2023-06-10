@@ -6,7 +6,8 @@ import Slide from '../../component/slide/Slide';
 import CatCard from '../../component/catCard/catCard';
 import { cards, projects } from '../../data';
 import ProCard from '../../component/proCard/proCard';
-import Footer from '../../component/footer/Footer';
+import GigCard from '../../component/gigCard/GigCard';
+import { gigData } from '../../data';
 const Home = () => {
     return (
         <div>

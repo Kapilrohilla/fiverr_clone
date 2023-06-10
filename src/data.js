@@ -81,3 +81,115 @@ export const projects = [
         img: "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/printweek/30e072ee-5466-4199-85b0-4a600161d5f0.png&w=800&h=500&q=70&c=1"
     }
 ]
+
+export const gigData = [
+    {
+        id: 1,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 2,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 3,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 4,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 5,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 6,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 7,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 8,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 9,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 10,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 11,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    },
+    {
+        id: 12,
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        name: "th3next",
+        desc: "I make AI generated image of anime, realistic art",
+        rating: 83,
+        img2: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/0a942eaf07f700413307cb83bcc725db-1679042705998/bb5a591c-bcff-4ee0-9cdd-db64f26eee95.png",
+        price: 1200
+    }
+
+]
