@@ -73,6 +73,7 @@ const Navbar = () => {
                     <Link className="link">Lifestyle</Link>
                 </div>
             </div>}
+            <hr />
         </div>
     )
 }

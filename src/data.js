@@ -85,7 +85,7 @@ export const projects = [
 export const gigData = [
     {
         id: 1,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -94,7 +94,7 @@ export const gigData = [
     },
     {
         id: 2,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -103,7 +103,7 @@ export const gigData = [
     },
     {
         id: 3,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -112,7 +112,7 @@ export const gigData = [
     },
     {
         id: 4,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -121,7 +121,7 @@ export const gigData = [
     },
     {
         id: 5,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -130,7 +130,7 @@ export const gigData = [
     },
     {
         id: 6,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -139,7 +139,7 @@ export const gigData = [
     },
     {
         id: 7,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -148,7 +148,7 @@ export const gigData = [
     },
     {
         id: 8,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -157,7 +157,7 @@ export const gigData = [
     },
     {
         id: 9,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -166,7 +166,7 @@ export const gigData = [
     },
     {
         id: 10,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -175,7 +175,7 @@ export const gigData = [
     },
     {
         id: 11,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
@@ -184,7 +184,7 @@ export const gigData = [
     },
     {
         id: 12,
-        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/300285511/original/149ebe6cfffe9ee28eb434f4a5f7885d7bc6fa36.png",
+        img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/297331964/original/558cd008cedde9b75e2a32a34281b685ff1be962/design-3d-digital-illustrations-and-characters-using-ai.png",
         name: "th3next",
         desc: "I make AI generated image of anime, realistic art",
         rating: 83,
